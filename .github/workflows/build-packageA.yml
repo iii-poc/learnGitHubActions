@@ -1,5 +1,5 @@
 name: Build and Publish PackageA
-run-name: ${{ github.actor }} is building PackageA
+run-name: ${{ github.actor }} has modified packageA
 on: 
  push:
   branches:

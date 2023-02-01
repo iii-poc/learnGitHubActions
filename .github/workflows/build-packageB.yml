@@ -1,6 +1,12 @@
-name: Work flow for changes in root folder
-run-name: ${{ github.actor }} updated the contents of root folder
-on: [push]
+name: Build and Publish PackageB
+run-name: ${{ github.actor }} has modified packageB
+on: 
+ push:
+  branches:
+    - main
+  paths:
+    - PackageB/**
+
 jobs:
   check-bats-version:
     runs-on: ubuntu-latest
