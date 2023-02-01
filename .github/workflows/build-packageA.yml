@@ -4,8 +4,8 @@ on: [push]
 
 defaults:
   run:
-  working-directory: PackageA
-  
+   working-directory: PackageA
+
 jobs:
   check-bats-version:
     runs-on: ubuntu-latest
