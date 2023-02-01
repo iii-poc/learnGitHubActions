@@ -1,10 +1,11 @@
 name: Build and Publish PackageA
 run-name: ${{ github.actor }} is building PackageA
-on: [push]
-
-defaults:
-  run:
-   working-directory: PackageA
+on: 
+ push:
+  branches:
+    - main
+  paths:
+    - PackageA/**
 
 jobs:
   check-bats-version:
