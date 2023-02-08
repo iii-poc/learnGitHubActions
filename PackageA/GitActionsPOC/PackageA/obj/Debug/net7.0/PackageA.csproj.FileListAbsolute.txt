@@ -1,0 +1,12 @@
+C:\poc\learnGitHubActions\PackageA\GitActionsPOC\PackageA\bin\Debug\net7.0\PackageA.deps.json
+C:\poc\learnGitHubActions\PackageA\GitActionsPOC\PackageA\bin\Debug\net7.0\PackageA.dll
+C:\poc\learnGitHubActions\PackageA\GitActionsPOC\PackageA\bin\Debug\net7.0\PackageA.pdb
+C:\poc\learnGitHubActions\PackageA\GitActionsPOC\PackageA\obj\Debug\net7.0\PackageA.csproj.AssemblyReference.cache
+C:\poc\learnGitHubActions\PackageA\GitActionsPOC\PackageA\obj\Debug\net7.0\PackageA.GeneratedMSBuildEditorConfig.editorconfig
+C:\poc\learnGitHubActions\PackageA\GitActionsPOC\PackageA\obj\Debug\net7.0\PackageA.AssemblyInfoInputs.cache
+C:\poc\learnGitHubActions\PackageA\GitActionsPOC\PackageA\obj\Debug\net7.0\PackageA.AssemblyInfo.cs
+C:\poc\learnGitHubActions\PackageA\GitActionsPOC\PackageA\obj\Debug\net7.0\PackageA.csproj.CoreCompileInputs.cache
+C:\poc\learnGitHubActions\PackageA\GitActionsPOC\PackageA\obj\Debug\net7.0\PackageA.dll
+C:\poc\learnGitHubActions\PackageA\GitActionsPOC\PackageA\obj\Debug\net7.0\refint\PackageA.dll
+C:\poc\learnGitHubActions\PackageA\GitActionsPOC\PackageA\obj\Debug\net7.0\PackageA.pdb
+C:\poc\learnGitHubActions\PackageA\GitActionsPOC\PackageA\obj\Debug\net7.0\ref\PackageA.dll

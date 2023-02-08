@@ -1,0 +1,12 @@
+C:\poc\learnGitHubActions\PackageB\Subtraction\bin\Debug\net7.0\Subtraction.deps.json
+C:\poc\learnGitHubActions\PackageB\Subtraction\bin\Debug\net7.0\Subtraction.dll
+C:\poc\learnGitHubActions\PackageB\Subtraction\bin\Debug\net7.0\Subtraction.pdb
+C:\poc\learnGitHubActions\PackageB\Subtraction\obj\Debug\net7.0\Subtraction.csproj.AssemblyReference.cache
+C:\poc\learnGitHubActions\PackageB\Subtraction\obj\Debug\net7.0\Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\poc\learnGitHubActions\PackageB\Subtraction\obj\Debug\net7.0\Subtraction.AssemblyInfoInputs.cache
+C:\poc\learnGitHubActions\PackageB\Subtraction\obj\Debug\net7.0\Subtraction.AssemblyInfo.cs
+C:\poc\learnGitHubActions\PackageB\Subtraction\obj\Debug\net7.0\Subtraction.csproj.CoreCompileInputs.cache
+C:\poc\learnGitHubActions\PackageB\Subtraction\obj\Debug\net7.0\Subtraction.dll
+C:\poc\learnGitHubActions\PackageB\Subtraction\obj\Debug\net7.0\refint\Subtraction.dll
+C:\poc\learnGitHubActions\PackageB\Subtraction\obj\Debug\net7.0\Subtraction.pdb
+C:\poc\learnGitHubActions\PackageB\Subtraction\obj\Debug\net7.0\ref\Subtraction.dll

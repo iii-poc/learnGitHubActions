@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PackageA", "PackageA\PackageA.csproj", "{58E096F6-18EC-42FA-AE2D-3CDCA1E3E52D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subtraction", "..\..\PackageB\Subtraction\Subtraction.csproj", "{E4F68AA7-A716-4245-ADA0-001A7ED05121}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58E096F6-18EC-42FA-AE2D-3CDCA1E3E52D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E096F6-18EC-42FA-AE2D-3CDCA1E3E52D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E096F6-18EC-42FA-AE2D-3CDCA1E3E52D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E096F6-18EC-42FA-AE2D-3CDCA1E3E52D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4F68AA7-A716-4245-ADA0-001A7ED05121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F68AA7-A716-4245-ADA0-001A7ED05121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F68AA7-A716-4245-ADA0-001A7ED05121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4F68AA7-A716-4245-ADA0-001A7ED05121}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC52CAA2-F8B8-4ACD-A625-CBD7474746D4}
+	EndGlobalSection
+EndGlobal
