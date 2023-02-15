@@ -12,7 +12,7 @@ on:
 env:
   PROJECT_PATH: 'PackageA\GitActionsPOC\PackageA\PackageA.csproj'
   PACKAGE_OUTPUT_DIRECTORY: ${{ github.workspace }}\output
-  NUGET_SOURCE_URL: 'https://api.nuget.org/v2/index.json'
+  NUGET_SOURCE_URL: 'https://api.nuget.org/v3/index.json'
 
 
 jobs:
