@@ -15,7 +15,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\poc\\learnGitHubActions\\PackageA\\GitActionsPOC\\PackageA\\PackageA.csproj",
-      "projectName": "PackageA",
+      "projectName": "IIIPOC.PackageA",
       "projectPath": "C:\\poc\\learnGitHubActions\\PackageA\\GitActionsPOC\\PackageA\\PackageA.csproj",
       "packagesPath": "C:\\Users\\Infant.Ivan\\.nuget\\packages\\",
       "outputPath": "C:\\poc\\learnGitHubActions\\PackageA\\GitActionsPOC\\PackageA\\obj\\",

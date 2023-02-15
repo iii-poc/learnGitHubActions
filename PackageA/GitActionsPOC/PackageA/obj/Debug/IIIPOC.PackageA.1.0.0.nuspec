@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>IIIPOC.PackageA</id>
+    <version>1.0.0</version>
+    <authors>PackageA</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\poc\learnGitHubActions\PackageA\GitActionsPOC\PackageA\bin\Debug\net7.0\PackageA.dll" target="lib\net7.0\PackageA.dll" />
+  </files>
+</package>

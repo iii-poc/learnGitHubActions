@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "F1MAm7ihuW0aDiqIZZHpc68xd30a6FZdyW17TbioBtvbl+RDSx0aUgOr68wK7D2gZ/dtD9dVvzQeDojcYoM9+Q==",
+  "dgSpecHash": "bIR3lPwEq3T9KnbtaJ3UlYPa997cbE5g1WocpzKcMzELneepe/7+0Lk5kby9p+DGL8rshOUny85CI7yXgYTp9g==",
   "success": true,
   "projectFilePath": "C:\\poc\\learnGitHubActions\\PackageA\\GitActionsPOC\\PackageA\\PackageA.csproj",
   "expectedPackageFiles": [],
